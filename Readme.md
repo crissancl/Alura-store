@@ -1,4 +1,5 @@
 # Desafío Alura Store - Análisis de Tiendas
+nota: me di cuenta después de las 12:00 que collab no había guardado la.copia en github así que tuve que recargar collab y actualizar todo otra vez )
 
 Este proyecto corresponde al desafío de la formación en Data Science de Alura Latam.
 
